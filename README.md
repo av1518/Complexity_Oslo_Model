@@ -1,4 +1,4 @@
-# Complexity_Oslo_Model
+# Investigating the Oslo Model’s display of Self-Organised Criticality
 
 Self-organised criticality (SOC) refers to the property of slowly-driven non-equilibrium systems with multiple degrees of freedom to self-organise into a highly susceptible state that
 features scale-free invariance without the external fine-tuning of control parameters. In this project, SOC was investigated by simulating the avalanche dynamics of the slowly-driven onedimensional
